@@ -1,0 +1,31 @@
+.logo-container {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo {
+    font-size: 3rem;
+    letter-spacing: 3px;
+}
+
+.logo__second-text-part {
+    font-size: 2rem;
+}
+
+.col-cyan {
+    color: #8be9fd
+}
+
+.col-green {
+    color: #50fa7b
+}
+
+.col-orange {
+    color: #ffb86c
+}
+
+.col-purple {
+    color: #bd93f9
+}
